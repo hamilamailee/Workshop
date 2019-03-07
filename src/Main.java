@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("this is pur repository ^_^");
+        System.out.println("this is our repository ^_^");
     }
 }
