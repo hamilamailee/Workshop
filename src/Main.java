@@ -8,5 +8,6 @@ public class Main {
         String name = scanner.next();
         System.out.println("salam " + name);
         System.out.println("dastet dard nakone k oomadi avaz koni");
+        System.out.println("3 omin taghir");
     }
 }
