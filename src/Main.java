@@ -7,5 +7,6 @@ public class Main {
         System.out.println("in kie k alan dare taghir mide ???");
         String name = scanner.next();
         System.out.println("salam " + name);
+        System.out.println("dastet dard nakone k oomadi avaz koni");
     }
 }
