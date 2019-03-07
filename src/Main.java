@@ -11,8 +11,6 @@ public class Main {
         out.println("salam " + name);
         out.println("dastet dard nakone k oomadi avaz koni");
         out.println("Hamila darad main ra miavazad ^_^");
-        System.out.println("salam " + name);
-        System.out.println("dastet dard nakone k oomadi avaz koni");
-        System.out.println("3 omin taghir");
+        out.println("3 omin taghir");
     }
 }
